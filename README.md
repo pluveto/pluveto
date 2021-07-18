@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently, I'm studying in Beijing University of Posts and Telecommunications, majoring in intelligent science and technology.
+
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
