@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications, majoring in intelligent science and technology.
+I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications, majoring in Intelligent Science and Technology.
 
 ### Languages
 
