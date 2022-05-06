@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLVM 笔记：最重要的类](https://www.less-bug.com/posts/llvm-notes-the-most-important-class/)
+- [Rust 的 Arc, Weak 智能指针](https://www.less-bug.com/posts/the-rust-of-the-arc-weak-smart-pointers/)
+- [Unix 系统调用：内存部分](https://www.less-bug.com/posts/unix-system-calls-memory-part/)
 - [Rust 的返回值传值探究，以及 move, borrow &amp; copy](https://www.less-bug.com/posts/how-rust-ret-val-and-move-borrow-copy/)
 - [Rust 生命周期（有效期）通俗解释](https://www.less-bug.com/posts/rust-life-cycle-for-popular-explanation/)
-- [HBase、ZooKeeper 集群部署及实践](https://www.less-bug.com/posts/hbase-zookeeper-cluster-deployment-and-practice/)
-- [用 ANTLR 制作简单的解释语言 “Print”](https://www.less-bug.com/posts/using-antlr-simple-programming-languages/)
-- [Flex &amp; Bison 实战：一个简单计算器](https://www.less-bug.com/posts/flex-and-bison-of-actual-combat-a-simple-calculator/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
