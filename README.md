@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spark 及 Hive 离线批处理实践](https://www.less-bug.com/posts/the-spark-and-hive-offline-batch-practice/)
+- [LLVM 笔记：类型](https://www.less-bug.com/posts/llvm-notes-type/)
 - [LLVM 笔记：最重要的类](https://www.less-bug.com/posts/llvm-notes-the-most-important-class/)
 - [Rust 的 Arc, Weak 智能指针](https://www.less-bug.com/posts/the-rust-of-the-arc-weak-smart-pointers/)
 - [Unix 系统调用：内存部分](https://www.less-bug.com/posts/unix-system-calls-memory-part/)
-- [Rust 的返回值传值探究，以及 move, borrow &amp; copy](https://www.less-bug.com/posts/how-rust-ret-val-and-move-borrow-copy/)
-- [Rust 生命周期（有效期）通俗解释](https://www.less-bug.com/posts/rust-life-cycle-for-popular-explanation/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
