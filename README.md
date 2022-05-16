@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Python 实现简单的多线程 MapReduce 计算框架](https://www.less-bug.com/posts/python-implementation-simple-multithreaded-graphs-computing-framework/)
+- [使用 BPE 原理进行汉语字词切分（重制版）](https://www.less-bug.com/posts/using-bpe-principle-for-chinese-word-segmentation-plate/)
 - [Spark 及 Hive 离线批处理实践](https://www.less-bug.com/posts/the-spark-and-hive-offline-batch-practice/)
 - [LLVM 笔记：类型](https://www.less-bug.com/posts/llvm-notes-type/)
 - [LLVM 笔记：最重要的类](https://www.less-bug.com/posts/llvm-notes-the-most-important-class/)
-- [Rust 的 Arc, Weak 智能指针](https://www.less-bug.com/posts/the-rust-of-the-arc-weak-smart-pointers/)
-- [Unix 系统调用：内存部分](https://www.less-bug.com/posts/unix-system-calls-memory-part/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
