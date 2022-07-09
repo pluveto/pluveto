@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python 实现简单的多线程 MapReduce 计算框架](https://www.less-bug.com/posts/python-implementation-simple-multithreaded-graphs-computing-framework/)
-- [使用 BPE 原理进行汉语字词切分（重制版）](https://www.less-bug.com/posts/using-bpe-principle-for-chinese-word-segmentation-plate/)
-- [Spark 及 Hive 离线批处理实践](https://www.less-bug.com/posts/the-spark-and-hive-offline-batch-practice/)
-- [LLVM 笔记：类型](https://www.less-bug.com/posts/llvm-notes-type/)
-- [LLVM 笔记：最重要的类](https://www.less-bug.com/posts/llvm-notes-the-most-important-class/)
+- [Golang 指针接口问题](https://www.less-bug.com/posts/golang-pointer-interface-problem/)
+- [八数码问题（A-star 解）](https://www.less-bug.com/posts/eight-digital-problem-a-star-solution/)
+- [BiLSTM-CRF 实现命名实体识别（NER）](https://www.less-bug.com/posts/bilstm-crf-realize-named-entity-recognition-ner/)
+- [采用 RNN 为小 Baby 起个英文名字吧](https://www.less-bug.com/posts/using-rnn-for-small-baby-an-english-name/)
+- [采用 GAN 生成手写数字](https://www.less-bug.com/posts/by-gan-handwritten-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
