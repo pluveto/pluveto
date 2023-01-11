@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Golang 指针接口问题](https://www.less-bug.com/posts/golang-pointer-interface-problem/)
-- [八数码问题（A-star 解）](https://www.less-bug.com/posts/eight-digital-problem-a-star-solution/)
-- [BiLSTM-CRF 实现命名实体识别（NER）](https://www.less-bug.com/posts/bilstm-crf-realize-named-entity-recognition-ner/)
-- [采用 RNN 为小 Baby 起个英文名字吧](https://www.less-bug.com/posts/using-rnn-for-small-baby-an-english-name/)
-- [采用 GAN 生成手写数字](https://www.less-bug.com/posts/by-gan-handwritten-numbers/)
+- [Pest 与 PEG 文法](https://www.less-bug.com/posts/pest-and-peg-grammars/)
+- [Pratt Parsing 算法介绍及实现](https://www.less-bug.com/posts/pratt-parsing-introduction-and-implementation-in-typescript/)
+- [C++：不带花括号就不算离开作用域？](https://www.less-bug.com/posts/cpp-scope-when-no-curly-braces/)
+- [Google Test&lpar;gtest&rpar; 快速入门](https://www.less-bug.com/posts/google-test-gtest-quick-start/)
+- [LLVM 官方教程编译器实现笔记](https://www.less-bug.com/posts/llvm-official-tutorial-compiler-implementation-notes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
