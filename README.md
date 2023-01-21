@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LLVM：从零开始实现 Function Pass](https://www.less-bug.com/posts/llvm-implement-function-pass-from-scratch/)
 - [SHA256 哈希算法原理和 Rust 实现](https://www.less-bug.com/posts/sha256-hash-algorithm-principle-and-rust-implementation/)
 - [Pest 与 PEG 文法](https://www.less-bug.com/posts/pest-and-peg-grammars/)
 - [Pratt Parsing 算法介绍及实现](https://www.less-bug.com/posts/pratt-parsing-introduction-and-implementation-in-typescript/)
 - [C++：不带花括号就不算离开作用域？](https://www.less-bug.com/posts/cpp-scope-when-no-curly-braces/)
-- [Google Test&lpar;gtest&rpar; 快速入门](https://www.less-bug.com/posts/google-test-gtest-quick-start/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
