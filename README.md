@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Maintaining Projects
+
+1. [pluveto/copy-code-as-markdown](https://github.com/pluveto/copy-code-as-markdown) A vscode extension helping you copy code with markdown fences and file name.
+1. [pluveto/upgit](https://github.com/pluveto/upgit) Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
+1. [pluveto/upgit-vscode-extension](https://github.com/pluveto/upgit-vscode-extension) Extension for vscode to integrate *upgit*.
+1. [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) Your self-hosted comment system
