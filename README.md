@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Maintaining Projects
+### 🏗️ Maintaining Projects
 
 1. [pluveto/copy-code-as-markdown](https://github.com/pluveto/copy-code-as-markdown) A vscode extension helping you copy code with markdown fences and file name.
 1. [pluveto/upgit](https://github.com/pluveto/upgit) Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
