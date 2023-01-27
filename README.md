@@ -9,11 +9,11 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust：认识各种盒子吧！（Box, Rc, Arc, Cell, RefCell）](https://www.less-bug.com/posts/rust-get-to-know-all-kinds-of-boxes-box-rc-arc-cell-refcell/)
 - [我的 Blog 工作流程](https://www.less-bug.com/posts/my-blog-workflow/)
 - [LLVM：从零开始实现 Function Pass](https://www.less-bug.com/posts/llvm-implement-function-pass-from-scratch/)
 - [SHA256 哈希算法原理和 Rust 实现](https://www.less-bug.com/posts/sha256-hash-algorithm-principle-and-rust-implementation/)
 - [Pest 与 PEG 文法](https://www.less-bug.com/posts/pest-and-peg-grammars/)
-- [Pratt Parsing 算法介绍及实现](https://www.less-bug.com/posts/pratt-parsing-introduction-and-implementation-in-typescript/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
