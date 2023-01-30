@@ -8,7 +8,8 @@ I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications,
 
 ### 📜 Recent posts
 
-<!-- BLOG-POST-LIST:START -->- Jan 28, 2023 - [Rust 错误分析：多次借用问题](https://www.less-bug.com/posts/rust-error-analysis-multiple-borrow-problems/) 
+<!-- BLOG-POST-LIST:START -->
+- Jan 28, 2023 - [Rust 错误分析：多次借用问题](https://www.less-bug.com/posts/rust-error-analysis-multiple-borrow-problems/) 
 - Jan 27, 2023 - [Rust：认识各种盒子吧！（Box, Rc, Arc, Cell, RefCell）](https://www.less-bug.com/posts/rust-get-to-know-all-kinds-of-boxes-box-rc-arc-cell-refcell/) 
 - Jan 25, 2023 - [我的 Blog 工作流程](https://www.less-bug.com/posts/my-blog-workflow/) 
 - Jan 21, 2023 - [LLVM：从零开始实现 Function Pass](https://www.less-bug.com/posts/llvm-implement-function-pass-from-scratch/) 
