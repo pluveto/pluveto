@@ -32,7 +32,12 @@ Here are some ideas to get you started:
 
 ### 🏗️ Maintaining Projects
 
-1. [pluveto/copy-code-as-markdown](https://github.com/pluveto/copy-code-as-markdown) A vscode extension helping you copy code with markdown fences and file name.
-1. [pluveto/upgit](https://github.com/pluveto/upgit) Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
-1. [pluveto/upgit-vscode-extension](https://github.com/pluveto/upgit-vscode-extension) Extension for vscode to integrate *upgit*.
-1. [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) Your self-hosted comment system
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_16x16.png" height="16"> [pluveto/copy-code-as-markdown](https://github.com/pluveto/copy-code-as-markdown) A vscode extension helping you copy code with markdown fences and file name.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_16x16.png" height="16"> [pluveto/upgit](https://github.com/pluveto/upgit) Another upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript_16x16.png" height="16"> [pluveto/upgit-vscode-extension](https://github.com/pluveto/upgit-vscode-extension) Extension for vscode to integrate *upgit*.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript_16x16.png" height="16"> [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) Your self-hosted comment system.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_16x16.png" height="16"> [pluveto/flydav](https://github.com/pluveto/flydav) Setup a tiny webdav server in 30 seconds. Multi-user, path prefix etc.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_16x16.png" height="16"> [pluveto/go-cli-boilerplate](https://github.com/pluveto/go-cli-boilerplate) A powerful Golang CLI application scaffold integrated with Logrus, arg parser, toml config, testify, Makefile, VSCode and Github Action.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go_16x16.png" height="16"> [pluveto/noteman](https://github.com/pluveto/noteman) High level markdown notes management tool. Compatible with hugo/hexo/jekyll.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp_16x16.png" height="16"> [pluveto/ShortcutMap](https://github.com/pluveto/ShortcutMap) : Helps show shortcuts map for any application quickly.
+1. <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp_16x16.png" height="16"> [pluveto/Mathink: 一个无需依赖 Latex 的 Latex 风格公式编辑器, 支持用作 Inkscape 插件. Engish trans: inkscape math symbols / formula editor with latex/tex syntax. On LaTex NOT depending](https://github.com/pluveto/Mathink)
