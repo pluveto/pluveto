@@ -1,6 +1,8 @@
 ### 👋 Hi there 
 
-I'm Zhang Zijing studying in Beijing University of Posts and Telecommunications, majoring in Intelligent Science and Technology.
+I'm Pluveto, a student at Beijing University of Posts and Telecommunications, majoring in Intelligent Science and Technology.
+
+I like to create things and build well-functioning systems with code. Good codes make me feel comfortable and happy.
 
 ### 🛠 Languages
 
@@ -42,3 +44,7 @@ Here are some ideas to get you started:
 8. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/noteman](https://github.com/pluveto/noteman) High level markdown notes management tool. Compatible with hugo/hexo/jekyll.
 9. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/ShortcutMap](https://github.com/pluveto/ShortcutMap) : Helps show shortcuts map for any application quickly.
 10. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/Mathink](https://github.com/pluveto/Mathink) An inkscape math symbols / formula editor with latex/tex syntax.
+
+If my Github heatpmap doesn't go green, it means I'm suffering from hard, boring sweatshop work.
+
+如果我的 Github 不绿了，那我一定是被拉去 996 了，那时请为我默哀三秒。
