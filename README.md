@@ -11,11 +11,11 @@ I like to create things and build well-functioning systems with code. Good codes
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Feb 25, 2023 - [Linux：一起离奇的启动故障](https://www.less-bug.com/posts/linux-a-bizarre-startup-failure/)
+ - Feb 21, 2023 - [Verilog HDL 入门](https://www.less-bug.com/posts/getting-started-with-verilog-hdl/)
  - Feb 20, 2023 - [Linux 下 Qt 开发环境的搭建](https://www.less-bug.com/posts/qt-dev-env-setup-linux/)
  - Feb 15, 2023 - [Kernel 5.15 虚拟机扩容实践](https://www.less-bug.com/posts/kernel-5-15-virtual-machine-expansion-practice/)
- - Feb 15, 2023 - [Lua 正则表达式](https://www.less-bug.com/posts/lua-regular-expressions/)
- - Feb 15, 2023 - [Lua：基础](https://www.less-bug.com/posts/lua-the-basics/)
- - Feb 15, 2023 - [Rust：Arena 分配器使用实践](https://www.less-bug.com/posts/rust-arena-allocator-usage-practice/)<!-- BLOG-POST-LIST:END -->
+ - Feb 15, 2023 - [Lua 正则表达式](https://www.less-bug.com/posts/lua-regular-expressions/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
