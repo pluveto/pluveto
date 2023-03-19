@@ -1,8 +1,6 @@
 ### 👋 Hi there 
 
-I'm Pluveto, a student at Beijing University of Posts and Telecommunications, majoring in Intelligent Science and Technology.
-
-I like to create things and build well-functioning systems with code. Good codes make me feel comfortable and happy.
+Creating things and building well-functioning systems with code is enjoying.
 
 ### 🛠 Languages
 
