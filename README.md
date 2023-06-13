@@ -9,11 +9,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
- - May 5, 2023 - [Rust 开发编译器速成（二）：计算编译器](https://www.less-bug.com/posts/rust-development-compiler-crash-2-calc-compiler/)
- - May 4, 2023 - [Rust 开发编译器速成（一）：计算解释器](https://www.less-bug.com/posts/rust-development-compiler-crash-1-calc-interpreter/)
- - Apr 21, 2023 - [Git：在不同仓库之间 Cherry Pick](https://www.less-bug.com/posts/git-cherry-pick-between-different-repositories/)
- - Apr 19, 2023 - [理解 LuaJIT：一个简单程序的执行过程](https://www.less-bug.com/posts/inside-luajit-the-execution-process-of-a-simple-program/)
- - Apr 16, 2023 - [WS+Nest：服务端和客户端实现](https://www.less-bug.com/posts/ws-nest-js-client-and-server/)<!-- BLOG-POST-LIST:END -->
+ - Jun 10, 2023 - [CPU 速通系列 4-2：MEM-WB 模块](https://www.less-bug.com/posts/cpu-speedrunner-series-4-2-mem-wb-module/)
+ - Jun 10, 2023 - [CPU 速通系列 4-1：MEM 模块](https://www.less-bug.com/posts/cpu-speedrunner-series-4-1-mem-module/)
+ - Jun 10, 2023 - [CPU 速通系列 3-3：EX-MEM 模块](https://www.less-bug.com/posts/cpu-speedrunner-series-3-3-ex-mem-module/)
+ - Jun 10, 2023 - [CPU 速通系列 3-2：DIV 模块](https://www.less-bug.com/posts/cpu-speedrunner-series-3-2-div-module/)
+ - Jun 10, 2023 - [CPU 速通系列 3-1：EX 模块](https://www.less-bug.com/posts/cpu-speedrunner-series-3-1-ex-module/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
