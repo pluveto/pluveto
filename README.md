@@ -9,11 +9,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Nov 6, 2023 - [Python：简单文本过滤自动机的实现](https://www.less-bug.com/posts/python-implementation-of-a-simple-text-filtering-automaton/)
  - Nov 5, 2023 - [Python：一些提高代码质量的基本 Type hinting](https://www.less-bug.com/posts/python-type-hinting-basics/)
  - Nov 1, 2023 - [搭建基于 qemu 与 gdb 的 Linux 内核开发环境](https://www.less-bug.com/posts/build-a-linux-kernel-development-environment-based-on-qemu-and-gdb/)
  - Oct 13, 2023 - [Python 抽象基类（ABC）和协议（Protocol）对比与选择.md](https://www.less-bug.com/posts/python-abc-and-protocol/)
- - Sep 5, 2023 - [Implement Flux Architecture with Python](https://www.less-bug.com/posts/implement-flux-architecture-with-python/)
- - Aug 19, 2023 - [Haskell 快速入门](https://www.less-bug.com/posts/haskell-get-started/)<!-- BLOG-POST-LIST:END -->
+ - Sep 5, 2023 - [Implement Flux Architecture with Python](https://www.less-bug.com/posts/implement-flux-architecture-with-python/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
