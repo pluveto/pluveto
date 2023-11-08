@@ -37,13 +37,12 @@ Here are some ideas to get you started:
 2. <img src="https://skillicons.dev/icons?i=rust" height="16">[pluveto/mopap](https://github.com/pluveto/mopap) (Experimental) Multilingual Open Personal Accounting Protocol
 3. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/upgit](https://github.com/pluveto/upgit) A upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 4. <img src="https://skillicons.dev/icons?i=javascript" height="16"> [pluveto/upgit-vscode-extension](https://github.com/pluveto/upgit-vscode-extension) An VSCode extension to integrate *upgit*.
-5. <img src="https://skillicons.dev/icons?i=typescript" height="16"> [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) Your self-hosted comment system.
+5. <img src="https://skillicons.dev/icons?i=c" height="16"> [pluveto/catmd](https://github.com/pluveto/catmd) Like cat but outputs use markdown, use full with GPT coding.
 6. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/flydav](https://github.com/pluveto/flydav) Setup a tiny webdav server in 30 seconds. Multi-user, path prefix etc.
 7. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/go-cli-boilerplate](https://github.com/pluveto/go-cli-boilerplate) A powerful Golang CLI application scaffold integrated many features.
 8. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/noteman](https://github.com/pluveto/noteman) High level markdown notes management tool. Compatible with hugo/hexo/jekyll.
 9. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/ShortcutMap](https://github.com/pluveto/ShortcutMap) : Helps show shortcuts map for any application quickly.
 10. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/Mathink](https://github.com/pluveto/Mathink) An inkscape math symbols / formula editor with latex/tex syntax.
+11. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/ankiterm](https://github.com/pluveto/ankiterm) Review your anki decks in terminal.
 
-If my Github heatpmap doesn't go green, it means I'm suffering from hard, boring sweatshop work.
-
-如果我的 Github 不绿了，那我一定是被拉去 996 了，那时请为我默哀三秒。
+If my Github heatpmap doesn't go green, it means I'm suffering from hard, boring sweatshop work. :(
