@@ -2,10 +2,6 @@
 
 Creating things and building well-functioning systems with code is enjoying.
 
-### 🛠 Languages
-
-![](https://skillicons.dev/icons?i=go,python,c,cpp,cs,js,ts,java,rust,ocaml,bash)
-
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
