@@ -5,11 +5,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
- - Nov 18, 2023 - [Merkle Tree 及其算法的设计与实现](https://www.less-bug.com/posts/design-and-implementation-of-merkle-tree-and-its-algorithm/)
- - Nov 13, 2023 - [Nodejs Monorepo 终极指南](https://www.less-bug.com/posts/nodejs-monorepo-an-ultimate-guide/)
- - Nov 6, 2023 - [Python：简单文本过滤自动机的实现](https://www.less-bug.com/posts/python-implementation-of-a-simple-text-filtering-automaton/)
- - Nov 5, 2023 - [Python：一些提高代码质量的基本 Type hinting](https://www.less-bug.com/posts/python-type-hinting-basics/)
- - Nov 1, 2023 - [搭建基于 qemu 与 gdb 的 Linux 内核开发环境](https://www.less-bug.com/posts/build-a-linux-kernel-development-environment-based-on-qemu-and-gdb/)<!-- BLOG-POST-LIST:END -->
+ - Nov 21, 2023 - [Ethereum 关键结构介绍：Recept、TxPool 和 Transaction](https://www.less-bug.com/posts/introduction-to-ethereums-key-structures/)
+ - Nov 21, 2023 - [Solidity 合约分析：4. ERC165、ERC721](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc165-erc721/)
+ - Nov 21, 2023 - [Solidity 合约分析：4. ERC20](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc20/)
+ - Nov 21, 2023 - [Solidity 合约分析：3. Iterable Mapping](https://www.less-bug.com/posts/solidity-contract-analysis-3-iterable-mapping/)
+ - Nov 21, 2023 - [Solidity 合约分析：2. Merkle Proof](https://www.less-bug.com/posts/solidity-contract-analysis-2-merkle-proof/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
