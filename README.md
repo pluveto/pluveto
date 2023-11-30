@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 1. <img src="https://skillicons.dev/icons?i=rust" height="16">[incolore-team/rockpiler](https://github.com/incolore-team/rockpiler) A compiler written in Rust
 1. <img src="https://skillicons.dev/icons?i=rust" height="16"> [jsonrpc-cli](https://github.com/pluveto/jsonrpc-cli) A jsonrpc command line utility for development and testing.
 1. <img src="https://skillicons.dev/icons?i=python" height="16"> [heapq-scheduler](https://github.com/pluveto/heapq-scheduler) A Python library for scheduling tasks at specific intervals.
-1. <img src="https://skillicons.dev/icons?i=typescript" height="16"> [pluveto/refcode](https://github.com/pluveto/refcode) Refcode is a VSCode extension that allows you to copy selected code and render it using a customizable template to your clipboard. Enhanced version of copy-code-as-markdown
-1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/hashcard](https://github.com/pluveto/hashcard) Hashcard is a command-line tool that scans markdown (.md) files within a specified directory, identifies special card markers, and extracts content into a structured JSON format.
-1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/linklore](https://github.com/pluveto/linklore) Linklore is a utility that allows you to export a note from an Obsidian note library and parse all the internal links, replacing them with real links.
+1. <img src="https://skillicons.dev/icons?i=typescript" height="16"> [pluveto/refcode](https://github.com/pluveto/refcode) A VSCode extension that allows you to copy selected code and render it using a customizable template
+1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/hashcard](https://github.com/pluveto/hashcard) A command-line tool that allow you make memo cards from your notes.
+1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/linklore](https://github.com/pluveto/linklore) A utility that allows you to export a post from an Obsidian notes lib, replacing internal links with real links.
 1. <img src="https://skillicons.dev/icons?i=go" height="16"> [ankiterm](https://github.com/ankiterm) A command line Anki reviewer based on AnkiConnect.
 1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/upgit](https://github.com/pluveto/upgit) A upload hub that supports clipboard. It works well with Typora, Snipaste, VSCode.
 1. <img src="https://skillicons.dev/icons?i=javascript" height="16"> [pluveto/upgit-vscode-extension](https://github.com/pluveto/upgit-vscode-extension) An VSCode extension to integrate *upgit*.
@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 1. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/ShortcutMap](https://github.com/pluveto/ShortcutMap) Helps show shortcuts map for any application quickly.
 1. <img src="https://skillicons.dev/icons?i=cs" height="16"> [pluveto/Mathink](https://github.com/pluveto/Mathink) An inkscape math symbols / formula editor with latex/tex syntax.
 1. <img src="https://skillicons.dev/icons?i=go" height="16"> [pluveto/ankiterm](https://github.com/pluveto/ankiterm) Review your anki decks in terminal.
-1. <img src="https://skillicons.dev/icons?i=python" height="16"> [pluveto/merkle-tree](https://github.com/pluveto/merkle-Tree) This library implements the Merkle tree data structure, which can be used for Merkle proofs, block verification, etc. This project is mainly for learning and reference.
+1. <img src="https://skillicons.dev/icons?i=python" height="16"> [pluveto/merkle-tree](https://github.com/pluveto/merkle-Tree) Merkle tree data structure implementation. Mainly for learning and reference.
 
 <!--<img src="https://skillicons.dev/icons?i=rust" height="16">[pluveto/mopap](https://github.com/pluveto/mopap) (Experimental) Multilingual Open Personal Accounting Protocol-->
