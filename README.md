@@ -5,11 +5,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
-- Nov 21, 2023 - [Ethereum 关键结构介绍：Recept、TxPool 和 Transaction](https://www.less-bug.com/posts/introduction-to-ethereums-key-structures/)
-- Nov 21, 2023 - [Solidity 合约分析：4. ERC165、ERC721](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc165-erc721/)
-- Nov 21, 2023 - [Solidity 合约分析：4. ERC20](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc20/)
-- Nov 21, 2023 - [Solidity 合约分析：3. Iterable Mapping](https://www.less-bug.com/posts/solidity-contract-analysis-3-iterable-mapping/)
-- Nov 21, 2023 - [Solidity 合约分析：2. Merkle Proof](https://www.less-bug.com/posts/solidity-contract-analysis-2-merkle-proof/)<!-- BLOG-POST-LIST:END -->
+ - Nov 21, 2023 - [Ethereum 关键结构介绍：Recept、TxPool 和 Transaction](https://www.less-bug.com/posts/introduction-to-ethereums-key-structures/)
+ - Nov 21, 2023 - [Solidity 合约分析：4. ERC165、ERC721](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc165-erc721/)
+ - Nov 21, 2023 - [Solidity 合约分析：4. ERC20](https://www.less-bug.com/posts/solidity-contract-analysis-4-erc20/)
+ - Nov 21, 2023 - [Solidity 合约分析：3. Iterable Mapping](https://www.less-bug.com/posts/solidity-contract-analysis-3-iterable-mapping/)
+ - Nov 21, 2023 - [Solidity 合约分析：2. Merkle Proof](https://www.less-bug.com/posts/solidity-contract-analysis-2-merkle-proof/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
