@@ -7,9 +7,9 @@ Creating things and building well-functioning systems with code is enjoying.
 <!-- BLOG-POST-LIST:START -->
  - Dec 7, 2023 - [阅读大规模代码：挑战与实践（1）目录和引言](https://www.less-bug.com/posts/reading-large-scale-code-challenges-and-practices-1-introduction-and-contents/)
  - Dec 7, 2023 - [阅读大规模代码：挑战与实践（2）不要直接开始阅读代码](https://www.less-bug.com/posts/reading-code-at-scale-challenges-and-practices-2-dont-read-code-first/)
+ - Dec 7, 2023 - [阅读大规模代码：挑战与实践（3）宏观理解代码结构](https://www.less-bug.com/posts/reading-code-at-scale-challenges-and-practices-3-macro-understanding-of-code-structure/)
  - Nov 25, 2023 - [零知识证明：深入理解理解 QAP](https://www.less-bug.com/posts/zero-knowledge-proof-in-depth-understanding-of-qap/)
- - Nov 23, 2023 - [Rust：一种线程崩溃处理机制研究](https://www.less-bug.com/posts/rust-research-on-a-thread-crash-handling-mechanism/)
- - Nov 21, 2023 - [Ethereum 关键结构介绍：Recept、TxPool 和 Transaction](https://www.less-bug.com/posts/introduction-to-ethereums-key-structures/)<!-- BLOG-POST-LIST:END -->
+ - Nov 23, 2023 - [Rust：一种线程崩溃处理机制研究](https://www.less-bug.com/posts/rust-research-on-a-thread-crash-handling-mechanism/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
