@@ -5,11 +5,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Mar 11, 2024 - [深入研究比特币：（3）RGB 协议介绍](https://www.less-bug.com/posts/in-depth-study-of-bitcoin-3-introduction-to-rgb-protocol/)
+ - Mar 11, 2024 - [深入理解比特币：（2）Lightning 网络](https://www.less-bug.com/posts/deep-understanding-of-bitcoin-2-lightning-network/)
  - Mar 6, 2024 - [深入理解比特币：（1）钱包和地址](https://www.less-bug.com/posts/in-depth-understanding-of-bitcoin-1-wallet-and-address/)
  - Mar 6, 2024 - [深入研究比特币：（0）从零到一](https://www.less-bug.com/posts/a-deep-dive-into-bitcoin-0-from-zero-to-one/)
- - Jan 31, 2024 - [BYOR——动手制作并理解区块链中的 Rollup 技术](https://www.less-bug.com/posts/byor-hands-on-production-and-understanding-of-rollup-technology-in-blockchain/)
- - Dec 7, 2023 - [阅读大规模代码：挑战与实践（1）目录和引言](https://www.less-bug.com/posts/reading-large-scale-code-challenges-and-practices-1-introduction-and-contents/)
- - Dec 7, 2023 - [阅读大规模代码：挑战与实践（2）不要直接开始阅读代码](https://www.less-bug.com/posts/reading-code-at-scale-challenges-and-practices-2-dont-read-code-first/)<!-- BLOG-POST-LIST:END -->
+ - Jan 31, 2024 - [BYOR——动手制作并理解区块链中的 Rollup 技术](https://www.less-bug.com/posts/byor-hands-on-production-and-understanding-of-rollup-technology-in-blockchain/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
