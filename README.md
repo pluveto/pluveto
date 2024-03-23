@@ -5,11 +5,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
- - Mar 11, 2024 - [深入研究比特币：（3）RGB 协议介绍](https://www.less-bug.com/posts/in-depth-study-of-bitcoin-3-introduction-to-rgb-protocol/)
- - Mar 11, 2024 - [深入理解比特币：（2）Lightning 网络](https://www.less-bug.com/posts/deep-understanding-of-bitcoin-2-lightning-network/)
- - Mar 6, 2024 - [深入理解比特币：（1）钱包和地址](https://www.less-bug.com/posts/in-depth-understanding-of-bitcoin-1-wallet-and-address/)
- - Mar 6, 2024 - [深入研究比特币：（0）从零到一](https://www.less-bug.com/posts/a-deep-dive-into-bitcoin-0-from-zero-to-one/)
- - Jan 31, 2024 - [BYOR——动手制作并理解区块链中的 Rollup 技术](https://www.less-bug.com/posts/byor-hands-on-production-and-understanding-of-rollup-technology-in-blockchain/)<!-- BLOG-POST-LIST:END -->
+ - Mar 23, 2024 - [图神经网络介绍](https://www.less-bug.com/posts/what-is-gnn/)
+ - Mar 23, 2024 - [搭建 Miniconda 管理的 PyG 和 DGL 开发环境](https://www.less-bug.com/posts/build-pyg-and-dgl-development-environments-managed-by-miniconda/)
+ - Mar 23, 2024 - [注意力机制介绍](https://www.less-bug.com/posts/introduction-to-attention-mechanism/)
+ - Mar 23, 2024 - [Transformer 和 BERT 模型介绍](https://www.less-bug.com/posts/introduction-to-transformer-and-bert-models/)
+ - Mar 11, 2024 - [深入研究比特币：（3）RGB 协议介绍](https://www.less-bug.com/posts/in-depth-study-of-bitcoin-3-introduction-to-rgb-protocol/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
