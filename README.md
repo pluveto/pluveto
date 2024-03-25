@@ -5,11 +5,11 @@ Creating things and building well-functioning systems with code is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Mar 25, 2024 - [深入研究比特币：（4）MAST、Taproot、Graftroot](https://www.less-bug.com/posts/bitcoin-in-depth-4-mast-taproot-graftroot/)
  - Mar 24, 2024 - [数字签名原理：从 Lamport 到椭圆曲线](https://www.less-bug.com/posts/the-cryptography-behind-digital-signatures-from-lamport-to-elliptic-curves/)
  - Mar 23, 2024 - [图神经网络介绍](https://www.less-bug.com/posts/what-is-gnn/)
  - Mar 23, 2024 - [搭建 Miniconda 管理的 PyG 和 DGL 开发环境](https://www.less-bug.com/posts/build-pyg-and-dgl-development-environments-managed-by-miniconda/)
- - Mar 23, 2024 - [注意力机制介绍](https://www.less-bug.com/posts/introduction-to-attention-mechanism/)
- - Mar 23, 2024 - [Transformer 和 BERT 模型介绍](https://www.less-bug.com/posts/introduction-to-transformer-and-bert-models/)<!-- BLOG-POST-LIST:END -->
+ - Mar 23, 2024 - [注意力机制介绍](https://www.less-bug.com/posts/introduction-to-attention-mechanism/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
