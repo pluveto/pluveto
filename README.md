@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Creating things and building well-functioning systems with code is enjoying.
+Creating things and coding well-functioning systems is enjoying.
 
 ### 📜 Recent posts
 
