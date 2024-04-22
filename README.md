@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Apr 22, 2024 - [在 Rust 中捕获 Ctrl-C 信号的技巧](https://www.less-bug.com/posts/tips-for-catching-ctrl-c-signals-in-rust/)
  - Apr 4, 2024 - [模型训练部署 Pipeline 介绍：以一个简单图神经网络为例](https://www.less-bug.com/posts/model-training-deployment-pipeline-introduction-taking-a-simple-graph-neural-network-as-an-example/)
  - Apr 1, 2024 - [GCN 基础：GraphConv、GATConv、SAGEConv 的实现（PyG+DGL）](https://www.less-bug.com/posts/gcn-basis-graphconv-gatconv-sageconv-implementation-pyg-dgl/)
  - Mar 25, 2024 - [深入研究比特币：（4）MAST、Taproot、Graftroot](https://www.less-bug.com/posts/bitcoin-in-depth-4-mast-taproot-graftroot/)
- - Mar 24, 2024 - [数字签名原理：从 Lamport 到椭圆曲线](https://www.less-bug.com/posts/the-cryptography-behind-digital-signatures-from-lamport-to-elliptic-curves/)
- - Mar 23, 2024 - [图神经网络介绍](https://www.less-bug.com/posts/what-is-gnn/)<!-- BLOG-POST-LIST:END -->
+ - Mar 24, 2024 - [数字签名原理：从 Lamport 到椭圆曲线](https://www.less-bug.com/posts/the-cryptography-behind-digital-signatures-from-lamport-to-elliptic-curves/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
