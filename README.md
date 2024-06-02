@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying.
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Jun 2, 2024 - [Rust：学习 Rc、Arc 和 Weak 并动手实现它](https://www.less-bug.com/posts/rust-learn-rc-arc-and-weak-and-implement-it-yourself/)
+ - Jun 2, 2024 - [Rust：通过几个例子学习 Cell 和 RefCell](https://www.less-bug.com/posts/rust-learn-cell-and-refcell-with-a-few-examples/)
+ - Jun 2, 2024 - [Rust：通过几个例子学习 Box](https://www.less-bug.com/posts/rust-learn-box-through-a-few-examples/)
  - May 17, 2024 - [点时间锁定合约（PTLC）的原理与实现](https://www.less-bug.com/posts/the-principle-and-implementation-of-ptlc/)
- - May 17, 2024 - [哈希时间锁定合约（HTLC）的原理与实现](https://www.less-bug.com/posts/the-principle-and-implementation-of-htlc/)
- - Apr 24, 2024 - [Rust 中 Mutex、RwLock 的使用实例](https://www.less-bug.com/posts/usage-examples-of-mutex-and-rwlock-in-rust/)
- - Apr 24, 2024 - [Bitcoin 的 Fee Bumping 机制介绍](https://www.less-bug.com/posts/introduction-to-bitcoins-fee-bumping-mechanism/)
- - Apr 22, 2024 - [在 Rust 中捕获 Ctrl-C 信号的技巧](https://www.less-bug.com/posts/tips-for-catching-ctrl-c-signals-in-rust/)<!-- BLOG-POST-LIST:END -->
+ - May 17, 2024 - [哈希时间锁定合约（HTLC）的原理与实现](https://www.less-bug.com/posts/the-principle-and-implementation-of-htlc/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
