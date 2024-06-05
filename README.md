@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Creating things and coding well-functioning systems is enjoying.
+Creating things and coding well-functioning systems is enjoying. Favorite languages: C, Rust and Typescript.
 
 ### 📜 Recent posts
 
