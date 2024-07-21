@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
- - Jul 19, 2024 - [C++ 深度使用 shared_ptr 的一些经验教训](https://www.less-bug.com/posts/some-lessons-learned-from-using-shared_ptr-in-depth-in-cpp/)
+ - Jul 21, 2024 - [C++：使用 CRTP 模式实现静态多态](https://www.less-bug.com/posts/cpp-static-polymorphism-using-crtp-pattern/)
+ - Jul 19, 2024 - [C++：深度使用 shared_ptr 的一些经验教训](https://www.less-bug.com/posts/some-lessons-learned-from-using-shared_ptr-in-depth-in-cpp/)
  - Jun 2, 2024 - [Rust：学习 Rc、Arc 和 Weak 并动手实现它](https://www.less-bug.com/posts/rust-learn-rc-arc-and-weak-and-implement-it-yourself/)
  - Jun 2, 2024 - [Rust：通过几个例子学习 Cell 和 RefCell](https://www.less-bug.com/posts/rust-learn-cell-and-refcell-with-a-few-examples/)
- - Jun 2, 2024 - [Rust：通过几个例子学习 Box](https://www.less-bug.com/posts/rust-learn-box-through-a-few-examples/)
- - May 17, 2024 - [点时间锁定合约（PTLC）的原理与实现](https://www.less-bug.com/posts/the-principle-and-implementation-of-ptlc/)<!-- BLOG-POST-LIST:END -->
+ - Jun 2, 2024 - [Rust：通过几个例子学习 Box](https://www.less-bug.com/posts/rust-learn-box-through-a-few-examples/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
