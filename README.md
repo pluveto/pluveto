@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Oct 5, 2024 - [抽象代数笔记（2024-10-5 更新）](https://www.less-bug.com/posts/abstract-algebra-notes/)
  - Jul 27, 2024 - [链接器：第一视角深入理解 PLT 和 GOT](https://www.less-bug.com/posts/in-depth-understanding-of-plt-and-got-from-a-first-perspective/)
  - Jul 22, 2024 - [C：实现一个迷你无栈协程框架——Minico](https://www.less-bug.com/posts/c-implement-a-mini-stackless-coroutine-framework-minico/)
  - Jul 21, 2024 - [C++：使用 CRTP 模式实现静态多态](https://www.less-bug.com/posts/cpp-static-polymorphism-using-crtp-pattern/)
- - Jul 19, 2024 - [C++：深度使用 shared_ptr 的一些经验教训](https://www.less-bug.com/posts/some-lessons-learned-from-using-shared_ptr-in-depth-in-cpp/)
- - Jun 2, 2024 - [Rust：学习 Rc、Arc 和 Weak 并动手实现它](https://www.less-bug.com/posts/rust-learn-rc-arc-and-weak-and-implement-it-yourself/)<!-- BLOG-POST-LIST:END -->
+ - Jul 19, 2024 - [C++：深度使用 shared_ptr 的一些经验教训](https://www.less-bug.com/posts/some-lessons-learned-from-using-shared_ptr-in-depth-in-cpp/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
