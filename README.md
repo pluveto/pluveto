@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Dec 2, 2024 - [阅读大规模代码：挑战与实践（4-EX）番外篇：试炼阅读某1000行的函数](https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-ex-extra-1000-line-read-in-action/)
  - Nov 30, 2024 - [阅读大规模代码：挑战与实践（4）深入代码细节](https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-deep-dive-into-code-details/)
  - Oct 30, 2024 - [物理光学笔记](https://www.less-bug.com/posts/notes-of-physics-optics/)
  - Oct 27, 2024 - [深入理解向量场微积分](https://www.less-bug.com/posts/understanding-vector-field-calculus/)
- - Oct 13, 2024 - [如何理解群的作用、轨道稳定子定理？](https://www.less-bug.com/posts/understanding-group-action-and-orbital-stabilizer-theorem/)
- - Oct 8, 2024 - [如何直观理解正规子群？](https://www.less-bug.com/posts/how-to-understand-normal-subgroups-intuitively/)<!-- BLOG-POST-LIST:END -->
+ - Oct 13, 2024 - [如何理解群的作用、轨道稳定子定理？](https://www.less-bug.com/posts/understanding-group-action-and-orbital-stabilizer-theorem/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
