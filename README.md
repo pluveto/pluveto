@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - May 2, 2025 - [Retain Counter：无需显式拓扑排序的自动调度方法](https://www.less-bug.com/posts/how-to-schedule-tasks-without-explicit-topological-sorting/)
  - Apr 29, 2025 - [使用 WireGuard 打通家庭内网与出差设备](https://www.less-bug.com/posts/use-wireguard-to-connect-home-intranet-and-business-travel-equipment/)
  - Apr 29, 2025 - [AXI4 总线协议学习与实践](https://www.less-bug.com/posts/learn-and-practice-of-axi4-bus-protocol/)
  - Apr 5, 2025 - [Scala 速通入门教程](https://www.less-bug.com/posts/learn-scala-in-one-day/)
- - Dec 2, 2024 - [阅读大规模代码：挑战与实践（4-EX）番外篇：试炼阅读某1000行的函数](https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-ex-extra-1000-line-read-in-action/)
- - Nov 30, 2024 - [阅读大规模代码：挑战与实践（4）深入代码细节](https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-deep-dive-into-code-details/)<!-- BLOG-POST-LIST:END -->
+ - Dec 2, 2024 - [阅读大规模代码：挑战与实践（4-EX）番外篇：试炼阅读某1000行的函数](https://www.less-bug.com/posts/reading-large-code-challenges-and-practices-4-ex-extra-1000-line-read-in-action/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
