@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Jun 3, 2025 - [基于 DevContainer 的 Rust for Linux 内核开发环境搭建笔记](https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/)
  - May 9, 2025 - [“PC 指向下一条要执行的指令”真的对吗？](https://www.less-bug.com/posts/pc-point-to-next-instruction--is-it-true/)
  - May 3, 2025 - [记录排查 xrdp 连接后立即断开问题](https://www.less-bug.com/posts/how-i-fixed-a-xrdp-connection-lost-issue/)
  - May 2, 2025 - [Retain Counter：无需显式拓扑排序的自动调度方法](https://www.less-bug.com/posts/how-to-schedule-tasks-without-explicit-topological-sorting/)
- - Apr 29, 2025 - [使用 WireGuard 打通家庭内网与出差设备](https://www.less-bug.com/posts/use-wireguard-to-connect-home-intranet-and-business-travel-equipment/)
- - Apr 29, 2025 - [AXI4 总线协议学习与实践](https://www.less-bug.com/posts/learn-and-practice-of-axi4-bus-protocol/)<!-- BLOG-POST-LIST:END -->
+ - Apr 29, 2025 - [使用 WireGuard 打通家庭内网与出差设备](https://www.less-bug.com/posts/use-wireguard-to-connect-home-intranet-and-business-travel-equipment/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
