@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Aug 6, 2025 - [GPU 微架构之旅 | 第一天：初识神力——为什么 GPU 那么快？](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-1-first-knowing-the-divine-power-why-is-gpu-so-fast/)
+ - Aug 6, 2025 - [GPU 微架构之旅 | 序言：嘿，你想不想亲手拆开一块 GPU？](https://www.less-bug.com/posts/gpu-microarchitecture-journey-preface-hey-do-you-want-to-disassemble-a-gpu-with-your-own-hands/)
  - Jul 6, 2025 - [乱序 CPU 经典 Hazard 问题：一次 Issue Queue 调试之旅](https://www.less-bug.com/posts/a-debug-journey-of-issue-queue-in-a-classic-reorder-cpu-problem/)
  - Jul 6, 2025 - [一觉醒来发现 git commit 卡住了？GPG 签名流程排查](https://www.less-bug.com/posts/what-happened-when-git-commit-hangs-gpg-signature-flow-troubleshoot/)
- - Jun 3, 2025 - [基于 DevContainer 的 Rust for Linux 内核开发环境搭建笔记（也支持纯C/混合开发）](https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/)
- - May 9, 2025 - [“PC 指向下一条要执行的指令”真的对吗？](https://www.less-bug.com/posts/pc-point-to-next-instruction--is-it-true/)
- - May 3, 2025 - [记录排查 xrdp 连接后立即断开问题](https://www.less-bug.com/posts/how-i-fixed-a-xrdp-connection-lost-issue/)<!-- BLOG-POST-LIST:END -->
+ - Jun 3, 2025 - [基于 DevContainer 的 Rust for Linux 内核开发环境搭建笔记（也支持纯C/混合开发）](https://www.less-bug.com/posts/setting-up-a-rust-for-linux-kernel-development-environment-using-devcontainers/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
