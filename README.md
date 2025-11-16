@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Nov 16, 2025 - [GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-5-specialists/)
+ - Nov 16, 2025 - [GPU 微架构之旅 | 第四天：GPU 的“记忆宫殿”——存储体系探秘](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/)
  - Aug 13, 2025 - [GPU 微架构之旅 | 第三天：从着色器到机器码](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-3-instruction-life-from-shader-to-machine-code/)
  - Aug 13, 2025 - [GPU 微架构之旅 | 第二天：深入“快递站”——Warp 与 SM 的运作之谜](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/)
- - Aug 6, 2025 - [GPU 微架构之旅 | 第一天：初识神力——为什么 GPU 那么快？](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-1-first-knowing-the-divine-power-why-is-gpu-so-fast/)
- - Aug 6, 2025 - [GPU 微架构之旅 | 序言：嘿，你想不想亲手拆开一块 GPU？](https://www.less-bug.com/posts/gpu-microarchitecture-journey-preface-hey-do-you-want-to-disassemble-a-gpu-with-your-own-hands/)
- - Jul 6, 2025 - [乱序 CPU 经典 Hazard 问题：一次 Issue Queue 调试之旅](https://www.less-bug.com/posts/a-debug-journey-of-issue-queue-in-a-classic-reorder-cpu-problem/)<!-- BLOG-POST-LIST:END -->
+ - Aug 6, 2025 - [GPU 微架构之旅 | 第一天：初识神力——为什么 GPU 那么快？](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-1-first-knowing-the-divine-power-why-is-gpu-so-fast/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
