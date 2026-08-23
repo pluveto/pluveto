@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Aug 23, 2026 - [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/)
  - Dec 20, 2025 - [明明配了SSH却无法推送私有仓库，原来是密钥版本太新了](https://www.less-bug.com/posts/although-ssh-is-configured-the-private-repository-cannot-be-pushed-it-turns-out-that-the-key-version-is-too-new/)
  - Nov 16, 2025 - [GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-5-specialists/)
  - Nov 16, 2025 - [GPU 微架构之旅 | 第四天：GPU 的“记忆宫殿”——存储体系探秘](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/)
- - Aug 13, 2025 - [GPU 微架构之旅 | 第三天：从着色器到机器码](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-3-instruction-life-from-shader-to-machine-code/)
- - Aug 13, 2025 - [GPU 微架构之旅 | 第二天：深入“快递站”——Warp 与 SM 的运作之谜](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-2-how-wrap-and-sm-work/)<!-- BLOG-POST-LIST:END -->
+ - Aug 13, 2025 - [GPU 微架构之旅 | 第三天：从着色器到机器码](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-3-instruction-life-from-shader-to-machine-code/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
