@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Aug 30, 2026 - [Win10 开始菜单点击没反应、所有窗口只有一个能点，最后发现是鼠标侧键的锅](https://www.less-bug.com/posts/logi-mouse-is-bad/)
  - Aug 23, 2026 - [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/)
  - Dec 20, 2025 - [明明配了SSH却无法推送私有仓库，原来是密钥版本太新了](https://www.less-bug.com/posts/although-ssh-is-configured-the-private-repository-cannot-be-pushed-it-turns-out-that-the-key-version-is-too-new/)
  - Nov 16, 2025 - [GPU 微架构之旅 | 第五天：术业有专攻——那些“特种兵”单元](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-5-specialists/)
- - Nov 16, 2025 - [GPU 微架构之旅 | 第四天：GPU 的“记忆宫殿”——存储体系探秘](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/)
- - Aug 13, 2025 - [GPU 微架构之旅 | 第三天：从着色器到机器码](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-3-instruction-life-from-shader-to-machine-code/)<!-- BLOG-POST-LIST:END -->
+ - Nov 16, 2025 - [GPU 微架构之旅 | 第四天：GPU 的“记忆宫殿”——存储体系探秘](https://www.less-bug.com/posts/gpu-microarchitecture-journey-day-4-memory-pyramid/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
