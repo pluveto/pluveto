@@ -5,11 +5,11 @@ Creating things and coding well-functioning systems is enjoying. Favorite langua
 ### 📜 Recent posts
 
 <!-- BLOG-POST-LIST:START -->
+ - Oct 5, 2026 - [软件工程师必修课：最小必要计算](https://www.less-bug.com/posts/minimal-necessary-computation/)
  - Sep 20, 2026 - [空间的体积度量衡——行列式（Determinant）](https://www.less-bug.com/posts/volume-measurement-of-space-determinant/)
  - Sep 20, 2026 - [如何理解直和分解与不变子空间？](https://www.less-bug.com/posts/how-to-understand-direct-sum-decomposition-and-invariant-subspace/)
  - Aug 30, 2026 - [Win10 开始菜单点击没反应、所有窗口只有一个能点，最后发现是鼠标侧键的锅](https://www.less-bug.com/posts/logi-mouse-is-bad/)
- - Aug 23, 2026 - [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/)
- - Dec 20, 2025 - [明明配了SSH却无法推送私有仓库，原来是密钥版本太新了](https://www.less-bug.com/posts/although-ssh-is-configured-the-private-repository-cannot-be-pushed-it-turns-out-that-the-key-version-is-too-new/)<!-- BLOG-POST-LIST:END -->
+ - Aug 23, 2026 - [Rust 中的 Sync 和 Send 理解](https://www.less-bug.com/posts/sync-and-send-understanding-in-rust/)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **pluveto/pluveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
